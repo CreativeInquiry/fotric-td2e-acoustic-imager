@@ -4,6 +4,7 @@
 
 * [**USER MANUAL PDF**](fotric_tdxe_user_manual_v1.0_20260410.pdf)
 * [Manufacturer site](https://www.fotric.com/post/fotric-td2e-kit-acoustic-imaging-camera-leak-detection)
+* [Product page](https://www.fotric.com/td2e-acoustic-imaging-camera)
 
 ---
 
